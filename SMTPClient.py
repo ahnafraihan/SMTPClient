@@ -6,7 +6,7 @@ from socket import *
 from socket import socket
 
 # Message to send
-msg = '\r\nI love computer networks!'
+msg = '\r\nJolly Good, Its a test message!'
 endmsg = '\r\n.\r\n'
 
 
